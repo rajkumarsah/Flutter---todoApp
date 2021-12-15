@@ -32,7 +32,7 @@
 /build/
 /test/
 /web/
-.gitignore/
+.gitignore
 
 # Web related
 lib/generated_plugin_registrant.dart
